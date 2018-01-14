@@ -46,7 +46,7 @@ http://localhost:8080/async/totals
 
 ### Running Locally
 
-From an IDE run the CartoncloudApplication class. 
+From an IDE run the PurchaseorderapiApplication class. 
 
 Note that we are using Spring Profiles for configuration, this means
 you will need to make sure "application.properties" is pointing at
@@ -54,7 +54,7 @@ you will need to make sure "application.properties" is pointing at
 
 ### Run from command line
 
-java -jar cartoncloud.jar
+java -jar purchaseorderapi.jar
 
 ## Design Notes
 
